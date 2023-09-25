@@ -1,0 +1,40 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.bx{
+    cursor: pointer;
+}
+
+/* .banner{
+    background-image:url('/assets/img/landscape.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:100%;
+    animation: banner-animation-slides 28s 5s infinite linear;
+}
+@keyframes banner-animation-slides {
+    0%{
+        background-image:url('/assets/img/landscape.jpg');
+    }
+    30%{
+        background-image:url('/assets/img/landscape\ two.jpg.jpg');
+    }
+    31%{
+        background-image:url('/assets/img/studio-ghibli-wallpaper-preview.jpg');
+    }
+    60%{
+        background-image:url('/assets/img/studio-ghibli-wallpaper-preview\ two.jpg');
+    }
+    61%{
+        background-image:url('/assets/img/studio-ghibli-wallpaper-preview\ three.jpg');
+    }
+    75%{
+        background-image:url('/assets/img/studio-ghibli-wallpaper-preview\ four.jpg');
+    }
+    100%{
+        background-image:url('/assets/img/studio-ghibli-wallpaper-preview\ five.jpg');
+    }
+} */
